@@ -74,7 +74,7 @@ module.exports = {
   ownernumber: process.env.Owner_Number || "94764519958",
   instagramId: process.env.Insta || "",
   warns: process.env.Warns_Limits || 3,
-  mongoUrl: process.env.MongoDB || "mongodb+srv://DARKSHAN:3000@cluster0.t1wsjlv.mongodb.net/",
+  mongoUrl: process.env.MongoDB || "mongodb+srv://Zimamongo:<zimamongodana2>@cluster0.zgafwjk.mongodb.net/?retryWrites=true&w=majority",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
