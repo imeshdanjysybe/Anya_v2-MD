@@ -115,7 +115,7 @@ global.themeemoji = process.env.ThemeEmoji || "🎐"
 global.ownername = process.env.Owner_Name || "MR.SYBER IMA" 
 global.ownernumber = process.env.Owner_Number || "94784924900" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
-global.timezone = process.env.TimeZone || "Asia/Kolkata" 
+global.timezone = process.env.TimeZone || "Asia/Colombo" 
 global.instagramId = process.env.Insta || "" 
 global.email = process.env.Email_Id || "imeshdananjaya42@gmail.com" 
   
