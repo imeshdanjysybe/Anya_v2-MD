@@ -41,15 +41,15 @@
        },
        "Author": {
            "description": "Enter a name for sticker\"s owner name (Ex:- PikaBotz)",
-           "required": false
+           "required": true
        },
        "PackName": {
            "description": "Enter a packname for stickers (Ex:- Queen Anya Stickers)",
-           "required": false
+           "required": true
        },
        "Web": {
            "description": "Enter your any social platform link (Ex:- https://github.com/PikaBotz)",
-           "required": false
+           "required": true
        },
        "ThemeEmoji": {
            "description": "Enter a desired emoji according to your theme (Ex:- ?)",
