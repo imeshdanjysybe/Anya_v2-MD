@@ -65,9 +65,9 @@ global.message = {
 module.exports = {
   botname: process.env.BotName || "Queen Anya", 
   author: process.env.Author || "`Ima_Xz©`",
-  packname: process.env.PackName || "Queen Anya v2 MD",
+  packname: process.env.PackName || "Queen_Anya_v2",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
+  footer: process.env.Footer || "© Queen_Anya",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "`@MR.SYBER IMA`",
@@ -107,9 +107,9 @@ module.exports = {
 // Ignore them 👇🏻
 global.botname = process.env.BotName || "Queen Anya" 
 global.author = process.env.Author || "`Ima_Xz©`" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
+global.packname = process.env.PackName || "Queen_Anya_v2" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
+global.footer = process.env.Footer || "© Queen_Anya" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "`MR.SYBER IMA`" 
