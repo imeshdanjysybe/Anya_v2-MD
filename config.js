@@ -16,8 +16,8 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownername: process.env.Owner_Name || "Ima_Xzz_OFC",
+    ownernumber: process.env.Owner_Number || "94784924900",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
@@ -26,11 +26,12 @@ module.exports = {
     author: process.env.Author || "𝐏𝐢𝐤𝐚𝐁𝐨𝐭𝐳 🌚🌙",
     packname: process.env.PackName || "𝕼𝖚𝖊𝖊𝖓 𝕬𝖓𝖞𝖆 𝖁2 𝕾𝖙𝖎𝖈𝖐𝖊𝖗 𝕻𝖆𝖈𝖐 🪀",
     socialLink: process.env.Web || "https://github.com/PikaBotz",
-    groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
+    groupLink: process.env.GcLink || "https://chat.whatsapp.com/FZsW8u0axPk2NQI0x92RjE",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
-    mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    mongoUrl: process.env.MongoDB || "mongodb+srv://imeshnewhotmail:
+2WTp4IQxmGDniqJX@cluster0.uhscl.mongodb.net/",
+    sessionId: process.env.SESSION_ID || "MjNvM3p_Queen-Anya_qdXc=",
 
     /**
      * thumbnails and medias
